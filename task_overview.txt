@@ -1,0 +1,6 @@
+tasks, 7
+completed task, 3
+incomplete task, 4
+due tasks, 1
+incomplete task percentage, 0.28
+due task percentage, 0.04

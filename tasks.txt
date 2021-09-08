@@ -1,0 +1,8 @@
+admin,Assign initial tasks,2019-10-10,2019-10-20,No,Use taskManager.py to assign each team member with appropriate tasks.
+admin,Register Users with taskManager.py,2019-10-10,2019-10-20,Yes,Use taskManager.py to add the usernames and passwords for all team members that will be using this program.
+samantha,wash,2021-08-11,2021-08-25,No,wash with water
+ruud,take the milk,2021-08-11,2021-08-19,Yes,open fridge and take the milk
+samantha,buy land,2021-08-11,2021-08-25,No,please look for land where there is water
+misheck,fetch the child,2021-08-11,2021-08-30,No,drive to school and fetch the child from school
+ruud,sell shoes,2021-08-11,2021-08-31,Yes,sell all the shoes
+junior,go to school,2021-08-13,2021-09-12,No,get your books and run to school

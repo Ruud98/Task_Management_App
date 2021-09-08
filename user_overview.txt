@@ -1,0 +1,18 @@
+Total Users,8
+Total Tasks Assigned To,admin,2
+Total Tasks Assigned To,samantha,2
+Total Tasks Assigned To,ruud,2
+Total Tasks Assigned To,misheck,1
+Total Tasks Assigned To,junior,1
+Total Percentage of Tasks Assigned To,admin,25%
+Total Percentage of Tasks Assigned To,samantha,25%
+Total Percentage of Tasks Assigned To,ruud,25%
+Total Percentage of Tasks Assigned To,misheck,12%
+Total Percentage of Tasks Assigned To,junior,12%
+Total Percentage of Complete Tasks Assigned To,admin,50%
+Total Percentage of Complete Tasks Assigned To,ruud,100%
+Total Percentage of Incomplete Tasks Assigned To,admin,50%
+Total Percentage of Incomplete Tasks Assigned To,samantha,100%
+Total Percentage of Incomplete Tasks Assigned To,misheck,100%
+Total Percentage of Incomplete Tasks Assigned To,junior,100%
+Total Percentage of Incomplete Due Tasks Assigned To,admin,50%
